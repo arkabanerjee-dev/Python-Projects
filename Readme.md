@@ -11,3 +11,4 @@
 
 ## Projects Covered
 A. Bill Splitter
+B. Employee Profile Generator 
