@@ -10,6 +10,6 @@
 4. Building from scratch
 
 ## Projects Covered
--A. Bill Splitter
--B. Employee Profile Generator 
--C. Movie Tickit Booking Calculator
+- A. Bill Splitter
+- B. Employee Profile Generator 
+- C. Movie Tickit Booking Calculator
