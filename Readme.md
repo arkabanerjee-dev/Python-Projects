@@ -14,3 +14,4 @@
 - B. Employee Profile Generator 
 - C. Movie Tickit Booking Calculator
 - D. Travel Weather Planner
+- E. Text Encryption and Decryption
